@@ -5,9 +5,9 @@
 
 - 🌱 I’m currently learning **Flutter, React, Competetive Programming, DS and Algo**
 
-- 👨‍💻 [I Like to visualise Algorithms](I Like to visualise Algorithms)
+- 👨‍💻 [I Like to visualise Algorithms]
 
-- 😎 You can talk with me about [Technology, Cricket, TV shows and what not](Technology, Cricket, TV shows and what not)
+- 😎 You can talk with me about [Technology, Cricket, TV shows and what not]
 
 - 📫 How to reach me **akash.mittal898@gmail.com**
 
