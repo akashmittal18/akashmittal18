@@ -1,10 +1,13 @@
 <h1 align="center">Hi 👋, I'm Akash Mittal</h1>
-<h3 align="center">I pay attention. And I know a lot of things.😈</h3>
-<h4 align="center">I am an Under-Grad Student at Graphic Era University, pursuing a Bachelor's in Computer Science.I love to learn and contribute in any and every possible way.</h4>
+<h3 align="center">I pay attention. And I know a lot of things.😈I am an Under-Grad Student at Graphic Era University, pursuing a Bachelor's in Computer Science.I love to learn and contribute in any and every possible way.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akashmittal18" alt="akashmittal18" /> </p>
 
 - 🌱 I’m currently learning **Flutter, React, Competetive Programming, DS and Algo**
+
+- 👨‍💻 [I Like to visualise Algorithms](I Like to visualise Algorithms)
+
+- 😎 You can talk with me about [Technology, Cricket, TV shows and what not](Technology, Cricket, TV shows and what not)
 
 - 📫 How to reach me **akash.mittal898@gmail.com**
 
