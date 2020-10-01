@@ -11,7 +11,7 @@
 
 - 😎 You can talk with me about [Technology, Cricket, TV shows and what not]
 
-- 📫 How to reach me **akash.mittal898@gmail.com**
+- 📫 <img src="https://img.icons8.com/color/48/000000/gmail.png"> How to reach me **akash.mittal898@gmail.com**
 
 - ⚡ Fun fact **I love cricket and TV Shows**
 
