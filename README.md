@@ -26,6 +26,7 @@
 <a href="mailto:akash.mittal898@gmail.com" target="blank"><img align="center"  src="https://img.icons8.com/color/48/000000/gmail.png" alt="akash.mittal898" height="30" width="30" /></a>
 <a href="https://medium.com/@akashmittal18" target="blank"><img align="center" src="https://img.icons8.com/color/96/000000/medium-monogram.png" alt="akashmittal18" height="30" width="30" /></a>  
 <a href="https://dev.to/akashmittal18">
-  <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Akash Mittal's DEV Profile" height="30" width="30">
+  <i class="fab fa-dev" title="akashmittal18's DEV Profile"></i>
+</a>
 </a>
 </p>
