@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akashmittal18" alt="akashmittal18" /> </p>
 
-- 🌱 I’m currently learning **Flutter, React, Competetive Programming, DS and Algo**
+- 🌱 I’m currently learning **Flutter, React, Competetive Programming, DS and Algo.**
 
 - 👨‍💻 [I Like to visualise Algorithms]
 
