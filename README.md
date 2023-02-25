@@ -1,9 +1,11 @@
 <h1 align="Left">Hi there, I'm Akash Mittal 👋</h1>
 
-<h4 align="Left">I am a Data Scientist/ML Engineer with a knack of learning new technologies</h4>
+<h4 align="Left">I am currently working in Data Science and Machine Learning field.</h4>
 
 
 - 🌱 I’m currently working in Data Science and ML Field.
+
+- 🧑‍💻 I am currently learning DSA
 
 - 😎 You can talk with me about [Technology, Cricket, TV shows and what not]
 
