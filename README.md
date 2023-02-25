@@ -1,7 +1,6 @@
 <h1 align="Left">Hi there, I'm Akash Mittal 👋</h1>
 
-<h4 align="center">I am an Under-Grad Student at Graphic Era University, pursuing a Bachelor's in Computer Science.I love to learn and contribute in any and every possible way.</h4>
-
+<h4 align="Left">I am a Data Scientist/ML Engineer with a knack of learning new technologies</h4>
 
 
 - 🌱 I’m currently working in Data Science and ML Field.
